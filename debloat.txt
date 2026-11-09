@@ -1,0 +1,6 @@
+{
+  "tv": "Pagaria led tv GL:46S",
+  "os": "Android TV 14",
+  "brand": "pagaria",
+  "notes": "PatchWall, Mi analytics, SmartShare, MiLink"
+}
